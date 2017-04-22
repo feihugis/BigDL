@@ -126,6 +126,11 @@
             <artifactId>log4j</artifactId>
             <version>${log4j.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.intel.analytics.bigdl.native</groupId>
+            <artifactId>mkl-java-mac</artifactId>
+            <version>0.1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
