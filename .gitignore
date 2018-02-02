@@ -20,6 +20,8 @@ project/plugins/project/
 *.iml
 .idea/
 
+/data
+
 # other
 *.txt
 *.csv
